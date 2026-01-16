@@ -3,7 +3,9 @@ We construct the SVA dataset to benchmark anomaly detection for User-Generated C
 
 
 ![violent_video50433_frame_7](https://github.com/user-attachments/assets/06670a8f-d746-404e-8504-0681b2a4ffe3) ![violent_video50179_frame_6](https://github.com/user-attachments/assets/dbcdcd77-ad2f-4713-98c9-cc508959c828)  ![violent_video50280_frame_2](https://github.com/user-attachments/assets/4f9441a5-044d-4fa2-ac9d-b6d54e896605)
-![blood_video10443_frame_2](https://github.com/user-attachments/assets/9622df4a-b089-4bed-97d7-9f0efe61fe1f)
+![blood_video10443_frame_2](https://github.com/user-attachments/assets/9622df4a-b089-4bed-97d7-9f0efe61fe1f) ![blood_video10445_frame_1](https://github.com/user-attachments/assets/3e432ed6-7193-492f-8ea7-c678add764a4) ![blood_video10671_frame_1](https://github.com/user-attachments/assets/702e0dea-5784-4bbe-90ce-e9d4935f1715)
+
+
 
 
 
