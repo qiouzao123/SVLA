@@ -20,6 +20,6 @@ We extract CLIP features for the SVA dataset and release them as follows:
 
 | Dataset | Source | Download Link |
 | :--- | :--- | :--- |
-| **SVA (Ours)** | Online Short Videos | [OneDrive](你的OneDrive分享链接在这里) |
+| **SVA (Ours)** | Online Short Videos | [code:6m3p](https://pan.baidu.com/s/1A_uTeMtLtLHLZR53NgKgxQ?pwd=6m3p) |
 | **UCF-Crime** | Surveillance | [OneDrive](这里填UCF的链接) |
 | **XD-Violence** | Surveillance | [OneDrive](这里填XD的链接) |
