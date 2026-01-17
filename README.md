@@ -18,8 +18,11 @@ We extract CLIP features for SVA datasets
 
 We extract CLIP features for the SVA dataset and release them as follows:
 
-| Dataset | Source | Download Link |
+| Benchmark | OneDrive | Baidu |
 | :--- | :--- | :--- |
 | **SVA (Ours)** | Online Short Videos | [code:6m3p](https://pan.baidu.com/s/1A_uTeMtLtLHLZR53NgKgxQ?pwd=6m3p) |
 | **UCF-Crime** | Surveillance | [code:ppc1](https://pan.baidu.com/s/1dccN0aRQQgwsF_Epo1n1hw?pwd=ppc1) |
 | **XD-Violence** | Surveillance | [code:5s1r](https://pan.baidu.com/s/1iYukvbpxa9YGD2leg3GflQ?pwd=5s1r) |
+To run the code locally, you need to modify the following files:
+* Update the file paths in list/xd_CLIP_rgb.csv and list/xd_CLIP_rgbtest.csv to point to the datasets you downloaded earlier.
+* Feel free to change the hyperparameters in `xd_option.py`.
