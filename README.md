@@ -34,3 +34,14 @@ Traing and infer for SVA dataset
 python Sva_train.py
 python Sva_test.py
 ```
+Traing and infer for UCF-Crime dataset
+```bash
+python ucf_train.py
+python ucf_test.py
+```
+Traing and infer for XD-Violence dataset
+```bash
+python xd_train.py
+python xd_test.py
+```
+
