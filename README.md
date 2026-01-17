@@ -14,10 +14,7 @@ We construct the SVA dataset to benchmark anomaly detection for User-Generated C
 
 # Training
 ### Setup
-We extract CLIP features for SVA datasets
-
-
-We extract CLIP features for the SVA dataset and release them as follows:
+We provide pre-extracted CLIP features for the UCF-Crime and XD-Violence datasets, which are released as follows:
 
 | Benchmark | OneDrive | Baidu |
 | :--- | :--- | :--- |
@@ -27,4 +24,4 @@ We extract CLIP features for the SVA dataset and release them as follows:
 
 To run the code locally, you need to modify the following files:
 * Update the file paths in `list/Sva_CLIP_rgb.csv` and `list/Sva_CLIP_rgbtest.csv` to point to the datasets you downloaded earlier.
-* Feel free to change the hyperparameters in `xd_option.py`.
+* Feel free to tweak the hyperparameters in `Sva_option.py` to suit your needs.
