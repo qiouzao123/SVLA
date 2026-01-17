@@ -28,6 +28,7 @@ To run the code locally, you need to modify the following files:
 
 ### Train and Test
 Upon completion of the configuration process, execute the following command:
+
 Traing and infer for SVA dataset
 ```bash
 python Sva_train.py
