@@ -48,4 +48,6 @@ python xd_test.py
 # References
 We used the following repos as references when developing the code.
 * [XDVioDet](https://github.com/Roc-Ng/XDVioDet)
+* [DeepMIL](https://github.com/Roc-Ng/DeepMIL)
+* [DeepMIL](https://github.com/nwpu-zxr/VadCLIP?tab=readme-ov-file#train-and-test)
 
