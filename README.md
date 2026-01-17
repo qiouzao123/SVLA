@@ -20,7 +20,7 @@ We extract CLIP features for the SVA dataset and release them as follows:
 
 | Benchmark | OneDrive | Baidu |
 | :--- | :--- | :--- |
-| **SVA (Ours)** | Online Short Videos | [code:6m3p](https://pan.baidu.com/s/1A_uTeMtLtLHLZR53NgKgxQ?pwd=6m3p) |
+| **SVA (Ours)** | [OneDrive](https://1drv.ms/u/c/3aa59224dccb0f12/IQCeXtytvym7TLlKOM_or6TFAVD1l7nGmUhxK_2Up7RRPHQ?e=zfVPRS) | [code:6m3p](https://pan.baidu.com/s/1A_uTeMtLtLHLZR53NgKgxQ?pwd=6m3p) |
 | **UCF-Crime** | Surveillance | [code:ppc1](https://pan.baidu.com/s/1dccN0aRQQgwsF_Epo1n1hw?pwd=ppc1) |
 | **XD-Violence** | Surveillance | [code:5s1r](https://pan.baidu.com/s/1iYukvbpxa9YGD2leg3GflQ?pwd=5s1r) |
 
