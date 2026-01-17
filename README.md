@@ -45,3 +45,7 @@ python xd_train.py
 python xd_test.py
 ```
 
+# References
+We used the following repos as references when developing the code.
+* (https://github.com/Roc-Ng/XDVioDet)
+
