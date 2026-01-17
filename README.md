@@ -25,3 +25,11 @@ We provide pre-extracted CLIP features for the UCF-Crime and XD-Violence dataset
 To run the code locally, you need to modify the following files:
 * Update the file paths in `list/Sva_CLIP_rgb.csv` and `list/Sva_CLIP_rgbtest.csv` to point to the datasets you downloaded earlier.
 * Feel free to tweak the hyperparameters in `Sva_option.py` to suit your needs.
+
+### Train and Test
+Upon completion of the configuration process, execute the following command:
+Traing and infer for SVA dataset
+```bash
+python Sva_train.py
+python Sva_test.py
+```
