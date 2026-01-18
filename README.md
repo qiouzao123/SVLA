@@ -18,9 +18,9 @@ We provide pre-extracted CLIP features for the UCF-Crime and XD-Violence dataset
 
 | Benchmark | huggingFace | Baidu |
 | :--- | :--- | :--- |
-| **SVA (Ours)** | [huggingFace](https://huggingface.co/datasets/qiouzao/SVA) | [code:6m3p](https://pan.baidu.com/s/1A_uTeMtLtLHLZR53NgKgxQ?pwd=6m3p) |
-| **UCF-Crime** | Surveillance | [code:ppc1](https://pan.baidu.com/s/1dccN0aRQQgwsF_Epo1n1hw?pwd=ppc1) |
-| **XD-Violence** | Surveillance | [code:5s1r](https://pan.baidu.com/s/1iYukvbpxa9YGD2leg3GflQ?pwd=5s1r) |
+| **SVA** | [huggingFace](https://huggingface.co/datasets/qiouzao/SVA) | [code:6m3p](https://pan.baidu.com/s/1A_uTeMtLtLHLZR53NgKgxQ?pwd=6m3p) |
+| **UCF-Crime** | [huggingFace](https://huggingface.co/datasets/qiouzao/UCF-Crime) | [code:ppc1](https://pan.baidu.com/s/1dccN0aRQQgwsF_Epo1n1hw?pwd=ppc1) |
+| **XD-Violence** | [huggingFace](https://huggingface.co/datasets/qiouzao/XD-Violence) | [code:5s1r](https://pan.baidu.com/s/1iYukvbpxa9YGD2leg3GflQ?pwd=5s1r) |
 
 To run the code locally, you need to modify the following files:
 * Update the file paths in `list/Sva_CLIP_rgb.csv` and `list/Sva_CLIP_rgbtest.csv` to point to the datasets you downloaded earlier.
