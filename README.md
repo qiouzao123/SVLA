@@ -40,7 +40,7 @@ We construct the SVA dataset to benchmark anomaly detection for User-Generated C
       <td align="center"><strong>Abusive</strong></td>
       <td>Involves aggressive behaviors, verbal harassment, or inappropriate gestures targeted at others.</td>
       <td>
-        <img src="https://github.com/user-attachments/assets/3b6efe38-b3ea-414b-a87e-fa277cc07ba3" width="150"> <img src="https://github.com/user-attachments/assets/c62c124c-2902-43c7-882e-2acff5324f77" width="150">
+        <img src="https://github.com/user-attachments/assets/3b6efe38-b3ea-414b-a87e-fa277cc07ba3" width="150" height="150"> <img src="https://github.com/user-attachments/assets/c62c124c-2902-43c7-882e-2acff5324f77" width="150">
       </td>
     </tr>
     <tr>
