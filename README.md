@@ -8,14 +8,13 @@ We construct the SVA dataset to benchmark anomaly detection for User-Generated C
 
 | Category | Description | Representative Samples |
 | :--- | :--- | :--- |
-| **🔥 Smoke** | Includes scenes involving fire accidents, explosions, or heavy smoke caused by unexpected events. | <img src="assets/smoke_1.jpg" width="100px"> <img src="assets/smoke_2.jpg" width="100px"> |
-| **🩸 Blood** | Contains visual depictions of physical injuries, bleeding, or medical gore scenes. | <img src="assets/blood_1.jpg" width="100px"> <img src="assets/blood_2.jpg" width="100px"> |
-| **👊 Violent** | Depicts physical altercations, street fights, riots, or assaults between individuals or groups. | <img src="assets/violent_1.jpg" width="100px"> <img src="assets/violent_2.jpg" width="100px"> |
-| **🤬 Abusive** | Involves aggressive behaviors, verbal harassment, or inappropriate gestures targeted at others. | <img src="assets/abusive_1.jpg" width="100px"> <img src="assets/abusive_2.jpg" width="100px"> |
-| **🔞 Sexy** | Contains sexually suggestive content, inappropriate exposure, or explicit acts violating platform rules. | <img src="assets/sexy_1.jpg" width="100px"> <img src="assets/sexy_2.jpg" width="100px"> |
-| **💸 Money** | Content related to scams, gambling, or displaying large amounts of cash in a suspicious context. | <img src="assets/money_1.jpg" width="100px"> <img src="assets/money_2.jpg" width="100px"> |
-| **⚠️ Policy** | Other content that strictly violates platform community guidelines (e.g., drug usage, dangerous acts). | <img src="assets/policy_1.jpg" width="100px"> <img src="assets/policy_2.jpg" width="100px"> |
-
+| **Smoke** | Captures instances of streamers smoking or displaying tobacco products during broadcasts, which violates platform health guidelines. | <img src="assets/smoke_1.jpg" width="100px"> <img src="assets/smoke_2.jpg" width="100px"> |
+| **Blood** | Contains visual depictions of physical injuries, bleeding, or medical gore scenes. | <img src="assets/blood_1.jpg" width="100px"> <img src="assets/blood_2.jpg" width="100px"> |
+| **Violent** | Depicts physical altercations, street fights, riots, or assaults between individuals or groups. | <img src="assets/violent_1.jpg" width="100px"> <img src="assets/violent_2.jpg" width="100px"> |
+| **Abusive** | Involves aggressive behaviors, verbal harassment, or inappropriate gestures targeted at others. | <img src="assets/abusive_1.jpg" width="100px"> <img src="assets/abusive_2.jpg" width="100px"> |
+| **Sexy** | Contains sexually suggestive content, inappropriate exposure, or explicit acts violating platform rules. | <img src="assets/sexy_1.jpg" width="100px"> <img src="assets/sexy_2.jpg" width="100px"> |
+| **Money** | Content related to scams, gambling, or displaying large amounts of cash in a suspicious context. | <img src="assets/money_1.jpg" width="100px"> <img src="assets/money_2.jpg" width="100px"> |
+| **Policy** | Includes politically sensitive content, unauthorized political commentary, or symbols that violate platform regulatory policies. | <img src="assets/policy_1.jpg" width="100px"> <img src="assets/policy_2.jpg" width="100px"> |
 
 
 
