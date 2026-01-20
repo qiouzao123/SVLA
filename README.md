@@ -34,7 +34,7 @@ We construct the SVA dataset to benchmark anomaly detection for User-Generated C
       <td align="center"><strong>Violent</strong></td>
       <td>Depicts physical altercations, street fights, riots, or assaults between individuals or groups.</td>
       <td>
-        <img src="https://github.com/user-attachments/assets/06670a8f-d746-404e-8504-0681b2a4ffe3" width="190"> <img src="https://github.com/user-attachments/assets/4f9441a5-044d-4fa2-ac9d-b6d54e896605" width="190">
+        <img src="https://github.com/user-attachments/assets/06670a8f-d746-404e-8504-0681b2a4ffe3" width="150"> <img src="https://github.com/user-attachments/assets/4f9441a5-044d-4fa2-ac9d-b6d54e896605" width="150">
       </td>
     </tr>
     <tr>
