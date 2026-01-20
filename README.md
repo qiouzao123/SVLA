@@ -15,7 +15,7 @@ We construct the SVA dataset to benchmark anomaly detection for User-Generated C
 | **🤬 Abusive** | Involves aggressive behaviors, verbal harassment, or inappropriate gestures targeted at others. | <img src="你的长链接7" width="180"> <img src="你的长链接8" width="180"> |
 | **🔞 Sexy** | Contains sexually suggestive content, inappropriate exposure, or explicit acts violating platform rules. | <img src="你的长链接9" width="180"> <img src="你的长链接10" width="180"> |
 | **💸 Money** | Content related to scams, gambling, or displaying large amounts of cash in a suspicious context. | <img src="你的长链接11" width="180"> <img src="你的长链接12" width="180"> |
-| **⚖️ Policy** | Includes politically sensitive content, unauthorized political commentary, or symbols that violate platform regulatory policies. | <img src="你的长链接13" width="180"> <img src="你的长链接14" width="180"> |
+| **⚖️ Policy** | Includes politically sensitive content, unauthorized political commentary, or symbols that violate platform regulatory policies. | <img src="你的长链接13" width="180"> <img src="你的长链接14" width="180"> | 
 
 
 
