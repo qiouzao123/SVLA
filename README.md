@@ -19,6 +19,69 @@ We construct the SVA dataset to benchmark anomaly detection for User-Generated C
 
 
 
+<table>
+  <thead>
+    <tr>
+      <th width="15%">Category</th>
+      <th width="35%">Description</th>
+      <th width="50%">Representative Samples</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><strong>🚬 Smoke</strong></td>
+      <td>Captures instances of streamers smoking or displaying tobacco products during broadcasts, which violates platform health guidelines.</td>
+      <td>
+        <img src="[你的长链接1](https://github.com/user-attachments/assets/0cff2360-9b98-453b-ac64-21561f74549d)" width="190"> <img src="https://github.com/user-attachments/assets/88ef5a4f-13d3-4c90-8fc6-22a998c5787e" width="190">
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>🩸 Blood</strong></td>
+      <td>Contains visual depictions of physical injuries, bleeding, or medical gore scenes.</td>
+      <td>
+        <img src="你的长链接3" width="190"> <img src="你的长链接4" width="190">
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>👊 Violent</strong></td>
+      <td>Depicts physical altercations, street fights, riots, or assaults between individuals or groups.</td>
+      <td>
+        <img src="你的长链接5" width="190"> <img src="你的长链接6" width="190">
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>🤬 Abusive</strong></td>
+      <td>Involves aggressive behaviors, verbal harassment, or inappropriate gestures targeted at others.</td>
+      <td>
+        <img src="你的长链接7" width="190"> <img src="你的长链接8" width="190">
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>🔞 Sexy</strong></td>
+      <td>Contains sexually suggestive content, inappropriate exposure, or explicit acts violating platform rules.</td>
+      <td>
+        <img src="你的长链接9" width="190"> <img src="你的长链接10" width="190">
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>💸 Money</strong></td>
+      <td>Content related to scams, gambling, or displaying large amounts of cash in a suspicious context.</td>
+      <td>
+        <img src="你的长链接11" width="190"> <img src="你的长链接12" width="190">
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>⚖️ Policy</strong></td>
+      <td>Includes politically sensitive content, unauthorized political commentary, or symbols that violate platform regulatory policies.</td>
+      <td>
+        <img src="你的长链接13" width="190"> <img src="你的长链接14" width="190">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 # SVLA
 <img width="1969" height="1084" alt="image" src="https://github.com/user-attachments/assets/d169227c-64b3-44fe-91f5-265217db4b4d" />
 
