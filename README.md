@@ -2,6 +2,7 @@
 We construct the SVA dataset to benchmark anomaly detection for User-Generated Content (UGC). Traditional surveillance datasets (e.g., UCF-Crime) depend on static continuity. Distinct from them, SVA captures the unconstrained characteristics of online videos. We collected raw clips from platforms such as TikTok. We notice that this introduces specific challenges, including frequent editing cuts and dynamic backgrounds.Examples of harmful content images are presented as follows：
 
 
+![money_video80121_frame_0](https://github.com/user-attachments/assets/59ce6c2f-5b96-49fd-8c9c-1591a1127daa)
 
 
 
@@ -54,7 +55,7 @@ We construct the SVA dataset to benchmark anomaly detection for User-Generated C
       <td align="center"><strong>Money</strong></td>
       <td>Content related to scams, gambling, or displaying large amounts of cash in a suspicious context.</td>
       <td>
-        <img src="https://github.com/user-attachments/assets/3ae78083-9321-49ab-801a-891dbd7d3f9c" width="150" height="150"> <img src="https://github.com/user-attachments/assets/7e852cdb-cc08-4b48-a36c-66b082a00c1e" width="150" height="150">
+        <img src="https://github.com/user-attachments/assets/59ce6c2f-5b96-49fd-8c9c-1591a1127daa" width="150" height="150"> <img src="https://github.com/user-attachments/assets/7e852cdb-cc08-4b48-a36c-66b082a00c1e" width="150" height="150">
       </td>
     </tr>
     <tr>
