@@ -19,28 +19,28 @@ We construct the SVA dataset to benchmark anomaly detection for User-Generated C
       <td align="center"><strong>Smoke</strong></td> 
       <td>Captures instances of streamers smoking or displaying tobacco products during broadcasts, which violates platform health guidelines.</td>
       <td>
-        <img src="https://github.com/user-attachments/assets/0cff2360-9b98-453b-ac64-21561f74549d" width="150"> <img src="https://github.com/user-attachments/assets/88ef5a4f-13d3-4c90-8fc6-22a998c5787e" width="150">
+        <img src="https://github.com/user-attachments/assets/0cff2360-9b98-453b-ac64-21561f74549d" width="150" height="150"> <img src="https://github.com/user-attachments/assets/88ef5a4f-13d3-4c90-8fc6-22a998c5787e" width="150" height="150">
       </td>
     </tr>
     <tr>
       <td align="center"><strong>Blood</strong></td>
       <td>Contains visual depictions of physical injuries, bleeding, or medical gore scenes.</td>
       <td>
-        <img src="https://github.com/user-attachments/assets/9622df4a-b089-4bed-97d7-9f0efe61fe1f" width="150"> <img src="https://github.com/user-attachments/assets/1dd0dcef-c3ff-45e4-a668-380335e22d1c" width="150">
+        <img src="https://github.com/user-attachments/assets/9622df4a-b089-4bed-97d7-9f0efe61fe1f" width="150" height="150"> <img src="https://github.com/user-attachments/assets/1dd0dcef-c3ff-45e4-a668-380335e22d1c" width="150" height="150">
       </td>
     </tr>
     <tr>
       <td align="center"><strong>Violent</strong></td>
       <td>Depicts physical altercations, street fights, riots, or assaults between individuals or groups.</td>
       <td>
-        <img src="https://github.com/user-attachments/assets/06670a8f-d746-404e-8504-0681b2a4ffe3" width="150"> <img src="https://github.com/user-attachments/assets/4f9441a5-044d-4fa2-ac9d-b6d54e896605" width="150">
+        <img src="https://github.com/user-attachments/assets/06670a8f-d746-404e-8504-0681b2a4ffe3" width="150" height="150"> <img src="https://github.com/user-attachments/assets/4f9441a5-044d-4fa2-ac9d-b6d54e896605" width="150" height="150">
       </td>
     </tr>
     <tr>
       <td align="center"><strong>Abusive</strong></td>
       <td>Involves aggressive behaviors, verbal harassment, or inappropriate gestures targeted at others.</td>
       <td>
-        <img src="https://github.com/user-attachments/assets/3b6efe38-b3ea-414b-a87e-fa277cc07ba3" width="150" height="150"> <img src="https://github.com/user-attachments/assets/c62c124c-2902-43c7-882e-2acff5324f77" width="150">
+        <img src="https://github.com/user-attachments/assets/3b6efe38-b3ea-414b-a87e-fa277cc07ba3" width="150" height="150"> <img src="https://github.com/user-attachments/assets/c62c124c-2902-43c7-882e-2acff5324f77" width="150" height="150">
       </td>
     </tr>
     <tr>
