@@ -32,7 +32,7 @@ We construct the SVA dataset to benchmark anomaly detection for User-Generated C
       <td align="center"><strong>🚬 Smoke</strong></td>
       <td>Captures instances of streamers smoking or displaying tobacco products during broadcasts, which violates platform health guidelines.</td>
       <td>
-        <img src="https://github.com/user-attachments/assets/0cff2360-9b98-453b-ac64-21561f74549d" width="190"> <img src="https://github.com/user-attachments/assets/88ef5a4f-13d3-4c90-8fc6-22a998c5787e" width="190">
+        <img src="https://github.com/user-attachments/assets/0cff2360-9b98-453b-ac64-21561f74549d" width="150"> <img src="https://github.com/user-attachments/assets/88ef5a4f-13d3-4c90-8fc6-22a998c5787e" width="190">
       </td>
     </tr>
     <tr>
