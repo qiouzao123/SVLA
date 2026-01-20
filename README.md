@@ -23,8 +23,8 @@ We construct the SVA dataset to benchmark anomaly detection for User-Generated C
   <thead>
     <tr>
       <th width="15%">Category</th>
-      <th width="38%">Description</th>
-      <th width="47%">Representative Samples</th>
+      <th width="40%">Description</th>
+      <th width="45%">Representative Samples</th>
     </tr>
   </thead>
   <tbody>
