@@ -5,6 +5,9 @@ We construct the SVA dataset to benchmark anomaly detection for User-Generated C
 ![money_video80121_frame_0](https://github.com/user-attachments/assets/59ce6c2f-5b96-49fd-8c9c-1591a1127daa)
 
 
+![policy_video60053_frame_0](https://github.com/user-attachments/assets/163b315e-1a35-47b9-9a12-6861b84d3e6b)
+![policy_video60134_frame_8](https://github.com/user-attachments/assets/086ae2f6-64bf-447e-93ea-68f091f3ac28)
+
 
 
 <table>
@@ -59,10 +62,10 @@ We construct the SVA dataset to benchmark anomaly detection for User-Generated C
       </td>
     </tr>
     <tr>
-      <td align="center"><strong>⚖️ Policy</strong></td>
+      <td align="center"><strong>Policy</strong></td>
       <td>Includes politically sensitive content, unauthorized political commentary, or symbols that violate platform regulatory policies.</td>
       <td>
-        <img src="你的长链接13" width="190"> <img src="你的长链接14" width="190">
+        <img src="https://github.com/user-attachments/assets/163b315e-1a35-47b9-9a12-6861b84d3e6b" width="150" height="150"> <img src="https://github.com/user-attachments/assets/086ae2f6-64bf-447e-93ea-68f091f3ac28" width="150" height="150">
       </td>
     </tr>
   </tbody>
