@@ -9,7 +9,7 @@ We construct the SVA dataset to benchmark anomaly detection for User-Generated C
 
 | Category | Description | Representative Samples |
 | :--- | :--- | :--- |
-| **🚬 Smoke** | Captures instances of streamers smoking or displaying tobacco products during broadcasts, which violates platform health guidelines. | <img src="https://github.com/user-attachments/assets/0cff2360-9b98-453b-ac64-21561f74549d" width="180"> <img src="你的长链接2" width="180"> |
+| **🚬 Smoke** | Captures instances of streamers smoking or displaying tobacco products during broadcasts, which violates platform health guidelines. | <img src="https://github.com/user-attachments/assets/0cff2360-9b98-453b-ac64-21561f74549d" width="180"> <img src="[你的长链接2](https://github.com/user-attachments/assets/88ef5a4f-13d3-4c90-8fc6-22a998c5787e)" width="180"> |
 | **🩸 Blood** | Contains visual depictions of physical injuries, bleeding, or medical gore scenes. | <img src="你的长链接3" width="180"> <img src="你的长链接4" width="180"> |
 | **👊 Violent** | Depicts physical altercations, street fights, riots, or assaults between individuals or groups. | <img src="你的长链接5" width="180"> <img src="你的长链接6" width="180"> |
 | **🤬 Abusive** | Involves aggressive behaviors, verbal harassment, or inappropriate gestures targeted at others. | <img src="你的长链接7" width="180"> <img src="你的长链接8" width="180"> |
