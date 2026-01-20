@@ -6,15 +6,16 @@ We construct the SVA dataset to benchmark anomaly detection for User-Generated C
 ![blood_video10443_frame_2](https://github.com/user-attachments/assets/9622df4a-b089-4bed-97d7-9f0efe61fe1f)  ![blood_video10671_frame_1](https://github.com/user-attachments/assets/702e0dea-5784-4bbe-90ce-e9d4935f1715) ![blood_video10869_frame_4](https://github.com/user-attachments/assets/1dd0dcef-c3ff-45e4-a668-380335e22d1c)
 ![smoke_video40029_frame_1](https://github.com/user-attachments/assets/0cff2360-9b98-453b-ac64-21561f74549d) ![smoke_video40073_frame_1](https://github.com/user-attachments/assets/88ef5a4f-13d3-4c90-8fc6-22a998c5787e) ![smoke_video40451_frame_8](https://github.com/user-attachments/assets/8c27cdfc-4273-42cc-9458-054ca2145df7)
 
+
 | Category | Description | Representative Samples |
 | :--- | :--- | :--- |
-| **Smoke** | Captures instances of streamers smoking or displaying tobacco products during broadcasts, which violates platform health guidelines. | ![smoke_video40029_frame_1](https://github.com/user-attachments/assets/0cff2360-9b98-453b-ac64-21561f74549d) ![smoke_video40073_frame_1](https://github.com/user-attachments/assets/88ef5a4f-13d3-4c90-8fc6-22a998c5787e) |
-| **Blood** | Contains visual depictions of physical injuries, bleeding, or medical gore scenes. | <img src="assets/blood_1.jpg" width="100px"> <img src="assets/blood_2.jpg" width="100px"> |
-| **Violent** | Depicts physical altercations, street fights, riots, or assaults between individuals or groups. | <img src="assets/violent_1.jpg" width="100px"> <img src="assets/violent_2.jpg" width="100px"> |
-| **Abusive** | Involves aggressive behaviors, verbal harassment, or inappropriate gestures targeted at others. | <img src="assets/abusive_1.jpg" width="100px"> <img src="assets/abusive_2.jpg" width="100px"> |
-| **Sexy** | Contains sexually suggestive content, inappropriate exposure, or explicit acts violating platform rules. | <img src="assets/sexy_1.jpg" width="100px"> <img src="assets/sexy_2.jpg" width="100px"> |
-| **Money** | Content related to scams, gambling, or displaying large amounts of cash in a suspicious context. | <img src="assets/money_1.jpg" width="100px"> <img src="assets/money_2.jpg" width="100px"> |
-| **Policy** | Includes politically sensitive content, unauthorized political commentary, or symbols that violate platform regulatory policies. | <img src="assets/policy_1.jpg" width="100px"> <img src="assets/policy_2.jpg" width="100px"> |
+| **🚬 Smoke** | Captures instances of streamers smoking or displaying tobacco products during broadcasts, which violates platform health guidelines. | <img src="![smoke_video40029_frame_1](https://github.com/user-attachments/assets/0cff2360-9b98-453b-ac64-21561f74549d)" width="180"> <img src="你的长链接2" width="180"> |
+| **🩸 Blood** | Contains visual depictions of physical injuries, bleeding, or medical gore scenes. | <img src="你的长链接3" width="180"> <img src="你的长链接4" width="180"> |
+| **👊 Violent** | Depicts physical altercations, street fights, riots, or assaults between individuals or groups. | <img src="你的长链接5" width="180"> <img src="你的长链接6" width="180"> |
+| **🤬 Abusive** | Involves aggressive behaviors, verbal harassment, or inappropriate gestures targeted at others. | <img src="你的长链接7" width="180"> <img src="你的长链接8" width="180"> |
+| **🔞 Sexy** | Contains sexually suggestive content, inappropriate exposure, or explicit acts violating platform rules. | <img src="你的长链接9" width="180"> <img src="你的长链接10" width="180"> |
+| **💸 Money** | Content related to scams, gambling, or displaying large amounts of cash in a suspicious context. | <img src="你的长链接11" width="180"> <img src="你的长链接12" width="180"> |
+| **⚖️ Policy** | Includes politically sensitive content, unauthorized political commentary, or symbols that violate platform regulatory policies. | <img src="你的长链接13" width="180"> <img src="你的长链接14" width="180"> |
 
 
 
