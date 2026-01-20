@@ -1,68 +1,10 @@
 # SVA Dataset Description
 We construct the SVA dataset to benchmark anomaly detection for User-Generated Content (UGC). Traditional surveillance datasets (e.g., UCF-Crime) depend on static continuity. Distinct from them, SVA captures the unconstrained characteristics of online videos. We collected raw clips from platforms such as TikTok. We notice that this introduces specific challenges, including frequent editing cuts and dynamic backgrounds.Examples of harmful content images are presented as follows：
 
+![money_video80038_frame_9](https://github.com/user-attachments/assets/14089297-b1e6-4466-afa1-6b2ffbe63f11)
+![money_video80160_frame_10](https://github.com/user-attachments/assets/66b2ce6e-503c-4721-b8f7-7f7831e3d093)
 
 
-<table>
-  <thead>
-    <tr>
-      <th width="15%">Category</th>
-      <th width="52%">Description</th>
-      <th width="33%">Representative Samples</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center"><strong>Smoke</strong></td> 
-      <td>Captures instances of streamers smoking or displaying tobacco products during broadcasts, which violates platform health guidelines.</td>
-      <td>
-        <img src="https://github.com/user-attachments/assets/0cff2360-9b98-453b-ac64-21561f74549d" width="150" height="150"> <img src="https://github.com/user-attachments/assets/88ef5a4f-13d3-4c90-8fc6-22a998c5787e" width="150" height="150">
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Blood</strong></td>
-      <td>Contains visual depictions of physical injuries, bleeding, or medical gore scenes.</td>
-      <td>
-        <img src="https://github.com/user-attachments/assets/9622df4a-b089-4bed-97d7-9f0efe61fe1f" width="150" height="150"> <img src="https://github.com/user-attachments/assets/1dd0dcef-c3ff-45e4-a668-380335e22d1c" width="150" height="150">
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Violent</strong></td>
-      <td>Depicts physical altercations, street fights, riots, or assaults between individuals or groups.</td>
-      <td>
-        <img src="https://github.com/user-attachments/assets/06670a8f-d746-404e-8504-0681b2a4ffe3" width="150" height="150"> <img src="https://github.com/user-attachments/assets/4f9441a5-044d-4fa2-ac9d-b6d54e896605" width="150" height="150">
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Abusive</strong></td>
-      <td>Involves aggressive behaviors, verbal harassment, or inappropriate gestures targeted at others.</td>
-      <td>
-        <img src="https://github.com/user-attachments/assets/3b6efe38-b3ea-414b-a87e-fa277cc07ba3" width="150" height="150"> <img src="https://github.com/user-attachments/assets/c62c124c-2902-43c7-882e-2acff5324f77" width="150" height="150">
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Sexy</strong></td>
-      <td>Contains sexually suggestive content, inappropriate exposure, or explicit acts violating platform rules.</td>
-      <td>
-        <img src="https://github.com/user-attachments/assets/5d2b7c11-2cbb-4ae2-aaf8-412fb5c442c5" width="150" height="150"> <img src="https://github.com/user-attachments/assets/00e055db-2266-481b-a363-ed2385a38e9d" width="150" height="150">
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Money</strong></td>
-      <td>Content related to scams, gambling, or displaying large amounts of cash in a suspicious context.</td>
-      <td>
-        <img src="https://github.com/user-attachments/assets/59ce6c2f-5b96-49fd-8c9c-1591a1127daa" width="150" height="150"> <img src="https://github.com/user-attachments/assets/7e852cdb-cc08-4b48-a36c-66b082a00c1e" width="150" height="150">
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Policy</strong></td>
-      <td>Includes politically sensitive content, unauthorized political commentary, or symbols that violate platform regulatory policies.</td>
-      <td>
-        <img src="https://github.com/user-attachments/assets/163b315e-1a35-47b9-9a12-6861b84d3e6b" width="150" height="150"> <img src="https://github.com/user-attachments/assets/086ae2f6-64bf-447e-93ea-68f091f3ac28" width="150" height="150">
-      </td>
-    </tr>
-  </tbody>
-</table>
 
 
 <table>
@@ -118,8 +60,8 @@ We construct the SVA dataset to benchmark anomaly detection for User-Generated C
       <td align="center"><strong>Money</strong></td>
       <td>Content related to scams, gambling, or displaying large amounts of cash in a suspicious context.</td>
       <td>
-        <img src="https://wsrv.nl/?url=https://github.com/user-attachments/assets/59ce6c2f-5b96-49fd-8c9c-1591a1127daa&w=150&h=150&fit=cover"> 
-        <img src="https://wsrv.nl/?url=https://github.com/user-attachments/assets/7e852cdb-cc08-4b48-a36c-66b082a00c1e&w=150&h=150&fit=cover">
+        <img src="https://wsrv.nl/?url=https://github.com/user-attachments/assets/14089297-b1e6-4466-afa1-6b2ffbe63f11&w=150&h=150&fit=cover"> 
+        <img src="https://wsrv.nl/?url=https://github.com/user-attachments/assets/66b2ce6e-503c-4721-b8f7-7f7831e3d093&w=150&h=150&fit=cover">
       </td>
     </tr>
     <tr>
