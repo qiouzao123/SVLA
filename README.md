@@ -74,6 +74,8 @@ We construct the SVA dataset to benchmark anomaly detection for User-Generated C
 # SVLA
 <img width="1969" height="1084" alt="image" src="https://github.com/user-attachments/assets/d169227c-64b3-44fe-91f5-265217db4b4d" />
 
+![SVLA Framework](https://github.com/user-attachments/assets/d169227c-64b3-44fe-91f5-265217db4b4d)
+
 # Training
 ### Setup
 We provide pre-extracted CLIP features for the UCF-Crime and XD-Violence datasets, which are released as follows:
