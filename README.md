@@ -17,7 +17,7 @@ We construct the SVA dataset to benchmark anomaly detection for User-Generated C
         <img src="https://wsrv.nl/?url=https://github.com/user-attachments/assets/0cff2360-9b98-453b-ac64-21561f74549d&w=150&h=150&fit=cover"> 
         <img src="https://wsrv.nl/?url=https://github.com/user-attachments/assets/88ef5a4f-13d3-4c90-8fc6-22a998c5787e&w=150&h=150&fit=cover">
       </td>
-    </tr>
+    </tr> 
     <tr>
       <td align="center"><strong>Blood</strong></td>
       <td>Contains visual depictions of physical injuries, bleeding, or medical gore scenes.</td>
