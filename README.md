@@ -60,7 +60,7 @@ We construct the SVA dataset to benchmark anomaly detection for User-Generated C
     </tr>
     <tr>
       <td align="center"><strong>Policy</strong></td>
-      <td>Includes politically sensitive content, unauthorized political commentary, or symbols that violate platform regulatory policies.</td>
+      <td>Includes politically erroneous content, political slander, politically sensitive content, unauthorized political commentary, or symbols that violate the platform's regulatory policies.</td>
       <td>
         <img src="https://wsrv.nl/?url=https://github.com/user-attachments/assets/163b315e-1a35-47b9-9a12-6861b84d3e6b&w=150&h=150&fit=cover"> 
         <img src="https://wsrv.nl/?url=https://github.com/user-attachments/assets/086ae2f6-64bf-447e-93ea-68f091f3ac28&w=150&h=150&fit=cover">
